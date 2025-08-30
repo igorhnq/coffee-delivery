@@ -2,7 +2,7 @@
 
 @theme {
     --color-yellow-dark: #C47F17;
-    --color-yellow: #C47F17;
+    --color-yellow: #DBAC2C;
     --color-yellow-light: #F1E9C9;
 
     --color-purple-dark: #4B2995;
@@ -17,7 +17,7 @@
     --color-base-button: #E6E5E5;
     --color-base-input: #EDEDED;
     --color-base-card: #F3F2F2;
-    --color-background: #FAFAFA;
+    --color-base-background: #FAFAFA;
     --color-white: #FFFFFF;
 
     --font-baloo: "Baloo 2", cursive;
