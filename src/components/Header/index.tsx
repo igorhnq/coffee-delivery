@@ -4,7 +4,7 @@ import { MapPinIcon, ShoppingCartIcon } from "@phosphor-icons/react"
 
 export function Header() {
     return (
-        <header className="flex justify-between items-center mt-8">
+        <header className="flex justify-between items-center mt-8 font-roboto">
             <img src={CoffeeDeliveryLogo} />
             <div className="flex items-center gap-3">
                 <div className="flex items-center gap-1 bg-purple-light p-2 rounded-md text-purple-dark h-10">
