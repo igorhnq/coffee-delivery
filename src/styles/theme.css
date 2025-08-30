@@ -1,24 +1,24 @@
 @import "tailwindcss";
 
 @theme {
-    --yellow-dark: #C47F17;
-    --yellow: #C47F17;
-    --yellow-light: #F1E9C9;
+    --color-yellow-dark: #C47F17;
+    --color-yellow: #C47F17;
+    --color-yellow-light: #F1E9C9;
 
-    --purple-dark: #4B2995;
-    --purple: #8047F8;
-    --purple-light: #EBE5F9;
+    --color-purple-dark: #4B2995;
+    --color-purple: #8047F8;
+    --color-purple-light: #EBE5F9;
 
-    --base-title: #272221;
-    --base-subtitle: #403937;
-    --base-text: #574F4D;
-    --base-label: #8D8686;
-    --base-hover: #D7D5D5;
-    --base-button: #E6E5E5;
-    --base-input: #EDEDED;
-    --base-card: #F3F2F2;
-    --background: #FAFAFA;
-    --white: #FFFFFF;
+    --color-base-title: #272221;
+    --color-base-subtitle: #403937;
+    --color-base-text: #574F4D;
+    --color-base-label: #8D8686;
+    --color-base-hover: #D7D5D5;
+    --color-base-button: #E6E5E5;
+    --color-base-input: #EDEDED;
+    --color-base-card: #F3F2F2;
+    --color-background: #FAFAFA;
+    --color-white: #FFFFFF;
 
     --font-baloo: "Baloo 2", cursive;
     --font-roboto: "Roboto", sans-serif;
