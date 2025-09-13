@@ -1,5 +1,5 @@
 import { CoffeeIcon, PackageIcon, ShoppingCartIcon, TimerIcon } from "@phosphor-icons/react"
-import HomeCoffeeImage from "../../../../assets/images/home/home-coffee.svg"
+import HomeCoffeeImage from "../../../../assets/images/home/coffee.svg"
 
 export function HeroSection() {
     return (
