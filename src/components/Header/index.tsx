@@ -1,4 +1,4 @@
-import CoffeeDeliveryLogo from "../../assets/images/coffee-delivery-logo.svg"
+import CoffeeDeliveryLogo from "../../assets/images/logo.svg"
 
 import { MapPinIcon, ShoppingCartIcon } from "@phosphor-icons/react"
 
